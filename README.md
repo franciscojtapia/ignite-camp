@@ -1,2 +1,2 @@
-# ignite-camp
+# Ignite Camp
 Ignite Camp
